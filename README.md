@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Saquib Khan</h1>
 <h3 align="center">🌐 Web Developer | 💡 Creative Coder | 🎨 Frontend Aficionado</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+beautiful+and+responsive+web+experiences;Love+working+with+React%2C+CSS%2C+and+JavaScript;Always+learning+something+new+👨‍💻" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -20,17 +18,7 @@
 
 
 
-### 📊 GitHub Stats
 
-<div align="center">
-  
-![Saquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saquib-khan-dev&show_icons=true&theme=radical&hide_border=true&hide_title=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-khan-dev&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 
 
