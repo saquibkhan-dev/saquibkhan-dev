@@ -57,14 +57,4 @@ SaaS MVP for freelancers to create invoices, track payment status (draft → sen
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saquibkhan-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=saquibkhan-dev&theme=dark&hide_border=false&cache_seconds=86400)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saquibkhan-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
