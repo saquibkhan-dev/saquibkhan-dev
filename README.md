@@ -1,60 +1,357 @@
-<h1 align="center">Hey 👋, I'm Saquib Khan</h1>
-<h3 align="center">🌐 Full Stack Developer | ⚛️ React.js & Next.js | 🛠️ Node.js & Express.js</h3>
+<!-- ========================================================= -->
 
----
+<!--                     SAQUIB KHAN README                    -->
 
-### 💁‍♂️ About Me
+<!-- ========================================================= -->
 
-- 🌍 Based in **New Delhi, India**
-- 🎓 B.Tech in Computer Science and Engineering — G.C.R.G Group of Institutions (AKTU), 2021–2025
-- 💼 Full Stack Developer with hands-on production experience in **React.js**, **TypeScript**, and **Next.js**, backed by REST APIs built with **Node.js**, **Express.js**, and **MySQL/PostgreSQL**
-- 🚀 Shipped 4 full-stack applications end-to-end — from database schema design through deployment
-- 🧩 Delivered 20+ reusable UI components across 4 client-facing pages as part of a professional Agile team
-- 🏆 Certifications: Full Stack Development Training (Anudip Foundation) · Frontend Developer Certificate (HackerRank) · Full Stack Development, Frontend Focus (Board Infinity)
-- 📫 Reach me at **saquibkhanjava@gmail.com**
+<!-- Top Wave -->
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Hero -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saquib%20Khan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descSize=18&descAlignY=55"
+    width="100%"
+  />
+</p>
+
+<!-- Introduction -->
+
+<h3 align="center">
+  Hello Fellow &lt;Coders /&gt;!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <b>Building modern web experiences with clean code, thoughtful UI and scalable architecture.</b>
+</p>
+
+<!-- Profile Views -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=saquibkhan-dev&style=for-the-badge&color=0ea5e9"
+    alt="Profile Views"
+  />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=850&height=100&lines=Hey!+I'm+Saquib+Khan+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer;React.js+%7C+TypeScript+%7C+Tailwind;Building+Modern+Web+Applications;Always+Learning+%7C+Always+Building"
+    alt="Typing Animation"
+  />
+</p>
+
+<!-- Divider -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- ========================================================= -->
+
+<!--                         ABOUT ME                          -->
+
+<!-- ========================================================= -->
+
+## 👨‍💻 About Me
+
+```javascript
+const saquib = {
+    name: "Saquib Khan",
+    role: "Frontend / Full-Stack Developer",
+    experience: "Fresher",
+    
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Vite"
+    ],
+
+    currentlyLearning: [
+        "Advanced React",
+        "TypeScript",
+        "Full-Stack Architecture",
+        "System Design"
+    ],
+
+    mindset: "Build → Learn → Improve → Repeat"
+};
+```
+
+> 💡 **I enjoy turning ideas into clean, responsive and production-ready web applications.**
+
+<!-- ========================================================= -->
+
+<!--                    CONTRIBUTION STATS                     -->
+
+<!-- ========================================================= -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saquibkhan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
+  />
+
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=saquibkhan-dev&theme=tokyonight&hide_border=true"
+ width="48%"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saquibkhan-dev&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquibkhan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="42%"
+  />
+</p>
+
+<!-- ========================================================= -->
+
+<!--                     TECHNOLOGY STACK                      -->
+
+<!-- ========================================================= -->
+
+## 🛠️ Technology Stack
+
+### 🎨 Frontend
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" title="React"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" title="Next.js"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" title="Tailwind CSS"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="55" title="SASS"/>
+
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" title="Express.js"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
+
+</p>
+
+### 🔧 Tools & Workflow
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="55" title="Vite"/>
+
+</p>
+
+<!-- ========================================================= -->
+
+<!--                         PROJECTS                          -->
+
+<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
-**[SprintDesk — Sprint Management Dashboard](https://github.com/saquibkhan-dev/Sprint-Desk)**
-Full-stack-style sprint management dashboard with a drag-and-drop Kanban board (keyboard-accessible via dnd-kit), Bearer token auth with silent refresh, sprint analytics with Recharts, and a real-time notification system. Built with React 19, TypeScript, Vite, TanStack Query, Zustand, and Tailwind CSS.
+### 🏃 [SprintDesk — Sprint Management Dashboard](https://github.com/saquibkhan-dev/Sprint-Desk)
 
-**[Approval Workflow System with Audit Logs](https://github.com/saquibkhan-dev/Approval-Workflow-System-with-Audit-Logs)**
-Role-based application (admin, approver, requester) with protected routes and a normalized MySQL schema powering live audit logs with real-time approval status updates. Built with React.js, Node.js, Express.js, and MySQL; endpoints validated with Postman and covered with Jest tests.
+Full-stack-style sprint management dashboard featuring a **drag-and-drop Kanban board**, keyboard accessibility with **dnd-kit**, Bearer token authentication with silent refresh, sprint analytics powered by **Recharts**, and a real-time notification system.
 
-**[Invoice Chaser — Freelance Invoice Management SaaS](https://github.com/saquibkhan-dev/Invoice-Chaser)**
-SaaS MVP for freelancers to create invoices, track payment status (draft → sent → overdue → paid), and view revenue on a live dashboard. Uses Supabase Auth with Row Level Security for per-user data isolation, plus Edge Functions to auto-flag overdue invoices and generate invoice PDFs.
+**Tech:** `React 19` `TypeScript` `Vite` `TanStack Query` `Zustand` `Tailwind CSS` `dnd-kit` `Recharts`
 
 ---
 
-## 💼 Work Experience
+### 🔐 [Approval Workflow System with Audit Logs](https://github.com/saquibkhan-dev/Approval-Workflow-System-with-Audit-Logs)
 
-**Web Developer — The Developers Arena (Remote)** | Nov 2025 – May 2026
-- Built animated UI transitions, Redux-based state management, and form validation across 4 client-facing pages, contributing 20+ reusable React components to a shared team-wide library.
-- Debugged and resolved cross-browser compatibility issues across Chrome, Firefox, and Safari.
-- Maintained a stable, deployable codebase using Git/GitHub branching strategies and merge conflict resolution.
+Role-based approval platform supporting **Admin, Approver, and Requester** workflows with protected routes and a normalized **MySQL** data model. Includes live audit logs, real-time approval status updates, API validation with **Postman**, and automated testing with **Jest**.
 
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saquib-khan-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saquibkhan-dev)
+**Tech:** `React.js` `Node.js` `Express.js` `MySQL` `Jest` `Postman`
 
 ---
 
-## 💻 Tech Stack
+### 🧾 [Invoice Chaser — Freelance Invoice Management SaaS](https://github.com/saquibkhan-dev/Invoice-Chaser)
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+Freelance invoice management SaaS MVP for creating invoices, tracking payment states from **Draft → Sent → Overdue → Paid**, and monitoring revenue through a live dashboard. Uses **Supabase Auth + Row Level Security** for per-user data isolation, with Edge Functions for automatic overdue detection and invoice PDF generation.
 
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools & Practices**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-
----
+**Tech:** `React` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Edge Functions` `PDF Generation`
 
 
+<!-- ========================================================= -->
+
+<!--                       CURRENT FOCUS                        -->
+
+<!-- ========================================================= -->
+
+## 🎯 Currently Focusing On
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ⚛️  Advanced React & Component Architecture              │
+│   📘 TypeScript & Type-Safe Development                    │
+│   🎨 Modern UI / UX & Responsive Design                     │
+│   🔐 Authentication & Authorization                         │
+│   🌐 REST APIs & Full-Stack Development                     │
+│   🗄️  Database Design & Optimization                        │
+│   🚀 Production Deployment & DevOps                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<!-- ========================================================= -->
+
+<!--                    SNAKE CONTRIBUTIONS                     -->
+
+<!-- ========================================================= -->
+
+## 🐍 Let the Snake Eat My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/saquibkhan-dev/saquibkhan-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/saquibkhan-dev/saquibkhan-dev/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/saquibkhan-dev/saquibkhan-dev/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<!-- ========================================================= -->
+
+<!--                         PHILOSOPHY                         -->
+
+<!-- ========================================================= -->
+
+## 💭 Developer Philosophy
+
+<p align="center">
+
+> **"Write code that is easy to understand today and easy to maintain tomorrow."**
+
+</p>
+
+<p align="center">
+
+`BUILD` ✦ `LEARN` ✦ `DEBUG` ✦ `IMPROVE` ✦ `REPEAT`
+
+</p>
+
+<!-- ========================================================= -->
+
+<!--                      CONNECT WITH ME                       -->
+
+<!-- ========================================================= -->
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/saquibkhan-dev">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/saquib-khan-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:your-saquibkhanjava@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- ========================================================= -->
+
+<!--                         FOOTER                             -->
+
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Keep coding. Keep learning. Keep building.</i>
+</p>
